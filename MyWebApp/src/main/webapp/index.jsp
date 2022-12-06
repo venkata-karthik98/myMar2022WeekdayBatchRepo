@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> We are migrating this WebApp from GitHub into Azure cloud using Azure piplines!!!!!!!!</h2>
+	<h2> This is my first Azure web Application and it is deployed</h2>
   
 </body>
 </html>
